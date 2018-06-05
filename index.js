@@ -28,7 +28,7 @@ const monsters =
   [ratSupremacist, lawsuitWaitingToHappen, gheklekTheWereRainbow, jennifer];
 
 const superhero1 = new Hero("Superman", "Clark Kent", 110);
-
+console.log(superhero1)
 // Below, I am using the newline "escape sequence" to force console.log to
 // print a literal newline on the console: http://mdn.io/string#Escape_notation
 
